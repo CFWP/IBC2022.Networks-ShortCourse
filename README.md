@@ -3,7 +3,7 @@ This repository contains all materials for the **Network Modeling for High-Dimen
 
 
 ## Course setup
-The course is divided a 4 submodules. 
+The course is divided in 4 submodules. 
 Each submodule consists of a short lecture integrated with a corresponding, hands-on practical. 
 
  * 09:00-10:30. **Part I: Extracting, visualizing and analyzing single networks**
